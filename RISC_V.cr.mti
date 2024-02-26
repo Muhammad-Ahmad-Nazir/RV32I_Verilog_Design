@@ -1,0 +1,92 @@
+{C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Register_file.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Register_file.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Register_file
+
+Top level modules:
+	Register_file
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Immediate_value_gen.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Immediate_value_gen.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Immediate_value_gen
+
+Top level modules:
+	Immediate_value_gen
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/2X1_MUX.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/2X1_MUX.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module MUX_2X1
+
+Top level modules:
+	MUX_2X1
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Clock.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Clock.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Clock_divider
+
+Top level modules:
+	Clock_divider
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/3X1_MUX.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/3X1_MUX.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module MUX_3X1
+
+Top level modules:
+	MUX_3X1
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Control_Unit.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Control_Unit.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/RISCV_main_file.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/RISCV_main_file.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module RISCV
+
+Top level modules:
+	RISCV
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Branch_comparator.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Branch_comparator.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Branch_comp
+
+Top level modules:
+	Branch_comp
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Counter_adder.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Counter_adder.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Program_Counter_ALU
+
+Top level modules:
+	Program_Counter_ALU
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Program_counter.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Program_counter.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Program_Counter
+
+Top level modules:
+	Program_Counter
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Program_memory.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Program_memory.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Program_memory
+
+Top level modules:
+	Program_memory
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Arithematic_and_Logic_Unit.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Arithematic_and_Logic_Unit.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Data_memory.v} {1 {vlog -work work {C:/Users/Asif/Desktop/Materials/Semester 4/Microprocessor Systems/Project/Codes/Data_memory.v}
+Model Technology ModelSim SE vlog 5.7f Compiler 2003.09 Sep 15 2003
+-- Compiling module Data_memory
+
+Top level modules:
+	Data_memory
+
+} {} {}}
