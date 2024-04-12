@@ -45,9 +45,9 @@ Clock_divider CLD( clk_in, clk);
 
 MUX_2X1 mux_pc_input( PC_added_4, ALU_result, PC_sel, PC_input);
 
-RISC_V_PC PC1( clk, PC_input, PC_out);
+Program_Counter PC1( clk, PC_input, PC_out);
 
-pc_adder PCadd1( PC_out, PC_added_4);
+Program_Counter_ALU PCadd1( PC_out, PC_added_4);
 
 Program_memory PM1( PC_out, Instruction_code);
 
